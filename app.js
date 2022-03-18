@@ -1,7 +1,7 @@
-let answer = prompt ('Для входа на порно сайт укажите возраст')
+let answer = prompt ('Для входа на сайт укажите возраст')
 
 if (answer >=18) {
     alert ('Welcom')
 } else if (answer < 18) {
-    alert ('Get the fuck out')
+    alert ('Get out')
 }
