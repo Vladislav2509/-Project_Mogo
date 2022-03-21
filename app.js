@@ -1,7 +1,11 @@
-let answer = prompt ('Для входа на сайт укажите возраст')
+const firstName = 'Vlad'
+const lastName = 'Dultev'
+const age = 26
+const isProgrammer = true 
 
-if (answer >=18) {
-    alert ('Welcom')
-} else if (answer < 18) {
-    alert ('Get out')
-}
+const asd = 'private'
+const $ = 'some value'
+
+const withNum5 = '5'
+
+console.log('Имя человека: ' + firstName)
